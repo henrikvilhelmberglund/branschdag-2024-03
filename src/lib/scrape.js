@@ -165,15 +165,30 @@ async function scrapeCompanies(page) {
 			const element = document.querySelector(selector);
 			if (element) {
 				let companyName;
+				const h1 = element.querySelector("h1");
 				const h2 = element.querySelector("h2");
-				const h3 = element.querySelector("h3");
+        const h3 = element.querySelector("h3");
+        // let's just check everything
+				const h4 = element.querySelector("h4");
+				const h5 = element.querySelector("h5");
+				const h6 = element.querySelector("h6");
 
 				// IBM is h3 for some reason
 				if (h2) {
 					companyName = h2.textContent.trim();
 				} else if (h3) {
-					companyName = h3.textContent.trim();
-				}
+          companyName = h3.textContent.trim();
+          // FMV, Frank Fam are h1
+        } else if (h1) {
+					companyName = h1.textContent.trim();
+        } else if (h4) {
+					companyName = h4.textContent.trim();
+        } else if (h5) {
+					companyName = h5.textContent.trim();
+        } else if (h6) {
+					companyName = h6.textContent.trim();
+        }
+
 
 				const omOss = ["Om oss/att jobba med oss:"];
 				const merOmOss = ["Mer om oss:"];
