@@ -1,0 +1,2 @@
+);
+		fs.appendFileSync("src/lib
