@@ -12,7 +12,8 @@
 		"format": "prettier --plugin-search-dir . --write .",
 		"release": "commit-and-tag-version",
 		"postrelease": "git push --follow-tags origin main",
-		"deploy": "npx gh-pages -d build --dotfiles"
+		"deploy": "npx gh-pages -d build --dotfiles",
+		"test": "vitest --ui"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^2.0.0",
@@ -20,6 +21,7 @@
 		"@sveltejs/kit": "^1.5.0",
 		"@unocss/preset-uno": "^0.49.4",
 		"@unocss/transformer-directives": "^0.50.6",
+		"@vitest/ui": "^1.3.1",
 		"commit-and-tag-version": "^11.0.0",
 		"dotenv": "^16.3.1",
 		"prettier": "^2.8.4",

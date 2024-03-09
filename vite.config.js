@@ -13,4 +13,7 @@ export default defineConfig({
 		}),
 		sveltekit(),
 	],
+	test: {
+    reporters: ["default", "html"],
+	},
 });
