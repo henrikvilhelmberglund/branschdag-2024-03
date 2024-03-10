@@ -15,5 +15,6 @@ export default defineConfig({
 	],
 	test: {
     reporters: ["default", "html"],
+    outputFile: "./build/vitest/index.html"
 	},
 });
