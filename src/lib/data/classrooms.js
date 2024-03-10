@@ -29,7 +29,7 @@ B205: ["FMV", "TECHNIA", "AMF Tjänstepension", "Two"],
 C201: ["Trafikförvaltningen Region Stockholm", "SignUp Software", "Epinova", "Azeo"],
 },
 {
-C204: ["Devoteam", "B3", "HM", "mebrain", "Lantmännen"],
+C204: ["Devoteam", "B3", "H&M Group", "Membrain", "Lantmännen"],
 },
 {
 C205: ["Swedbank", "Epicalgroup", "Cegeka", "Mercur", "Tutus"],
