@@ -1269,48 +1269,49 @@ Vi är intresserade av att:
 
 Kontakta mig om du har frågor
 `,
-"Warpin Reality": `Warpin Reality
-Om oss/att jobba med oss:
-At WSI Sigma Connectivity we apply a business and technical perspective and are the customers´ reliable guide through the entire development journey. With best-in-class competence, a huge network of partners and access to Europe’s biggest independent labs, we customize development dream teams in which we together further develop ourselves as individuals and as teammembers.
+  "Warpin Reality": `Warpin Reality
+  Om oss/att jobba med oss:
+  Warpin Reality har funnits sedan 2017 och hjälper andra bolag att utnyttja ny teknik för sin verksamhet med fokus på utbildning och story telling i AR och VR.
+  
+  Mer om oss:
+  Webbsida (https://warpinreality.com/)
+  
+  Vi är intresserade av dig som studerar:
+  Virtual Reality-utvecklare
+  Teknisk 3D-artist inom spel
+  
+  Vi är intresserade av att:
+  Ta emot LIA-praktikanter under 2024 och/eller 2025
+  Anställa studenter efter examen
+  
+  Kontakta mig om du har frågor
+  Kontakta mig om du har frågor LIA
+  jakob@warpinreality.com
 
-Mer om oss:
-Webbsida (https://www.wsisweden.com/)
-LinkedIn (https://www.linkedin.com/company/sigmaconnectitivywsiab)
-Rörlig företagspresentation (https://www.youtube.com/watch?v=3Me8dwlkyms)
-
-Vi är intresserade av dig som studerar:
-Javautvecklare
-Mjukvaruutvecklare, Inbyggda system och IoT (Internet of Things-utvecklare)
-Pythonutvecklare inom AI
-Data Engineer
-IT-säkerhetstekniker
-
-Vi är intresserade av att:
-Ta emot LIA-praktikanter under 2024 och/eller 2025
-Anställa studenter efter examen
-
-Kontakta mig om du har frågor
-Kontakta mig om du har frågor LIA
-henrik.svegby@wsisweden.com
 `,
-"WSI Sigma Connectivity": `WSI Sigma Connectivity
-Om oss/att jobba med oss:
-Warpin Reality har funnits sedan 2017 och hjälper andra bolag att utnyttja ny teknik för sin verksamhet med fokus på utbildning och story telling i AR och VR.
-
-Mer om oss:
-Webbsida (https://warpinreality.com/)
-
-Vi är intresserade av dig som studerar:
-Virtual Reality-utvecklare
-Teknisk 3D-artist inom spel
-
-Vi är intresserade av att:
-Ta emot LIA-praktikanter under 2024 och/eller 2025
-Anställa studenter efter examen
-
-Kontakta mig om du har frågor
-Kontakta mig om du har frågor LIA
-jakob@warpinreality.com
+  "WSI Sigma Connectivity": `WSI Sigma Connectivity
+  Om oss/att jobba med oss:
+  At WSI Sigma Connectivity we apply a business and technical perspective and are the customers´ reliable guide through the entire development journey. With best-in-class competence, a huge network of partners and access to Europe’s biggest independent labs, we customize development dream teams in which we together further develop ourselves as individuals and as teammembers.
+  
+  Mer om oss:
+  Webbsida (https://www.wsisweden.com/)
+  LinkedIn (https://www.linkedin.com/company/sigmaconnectitivywsiab)
+  Rörlig företagspresentation (https://www.youtube.com/watch?v=3Me8dwlkyms)
+  
+  Vi är intresserade av dig som studerar:
+  Javautvecklare
+  Mjukvaruutvecklare, Inbyggda system och IoT (Internet of Things-utvecklare)
+  Pythonutvecklare inom AI
+  Data Engineer
+  IT-säkerhetstekniker
+  
+  Vi är intresserade av att:
+  Ta emot LIA-praktikanter under 2024 och/eller 2025
+  Anställa studenter efter examen
+  
+  Kontakta mig om du har frågor
+  Kontakta mig om du har frågor LIA
+  henrik.svegby@wsisweden.com
 `,
 "Xlent": `Xlent
 Om oss/att jobba med oss:
