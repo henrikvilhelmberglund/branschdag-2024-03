@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [0.0.14](https://github.com/henrikvilhelmberglund/branschdag-2024-03/compare/v0.0.13...v0.0.14) (2024-03-10)
+
+
+### Bug Fixes
+
+* fix data ([e803b5c](https://github.com/henrikvilhelmberglund/branschdag-2024-03/commit/e803b5c82b113f64c9240bd5302cb63a2c2af001))
+
 ## [0.0.13](https://github.com/henrikvilhelmberglund/branschdag-2024-03/compare/v0.0.12...v0.0.13) (2024-03-10)
 
 
