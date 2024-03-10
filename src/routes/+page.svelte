@@ -1,12 +1,11 @@
 <script>
 	import { base } from "$app/paths";
 	// import { sections, listOfCompanies } from "$lib/data.js";
-	// import { test_data } from "$lib/parse.js";
 
 	import Company from "$lib/Company.svelte";
 	import AutoComplete from "simple-svelte-autocomplete";
 	import DarkModeToggle from "$lib/DarkModeToggle.svelte";
-	import { companiesData as test_data } from "$lib/data/test";
+	import { companyData } from "$lib/data/companyData";
 	import { listOfCompanies } from "$lib/data/medverkande";
 	import { sections } from "$lib/data/classrooms";
 	// import { sections } from "$lib/data/sections";
@@ -104,8 +103,8 @@
 	let enabledThingies;
 	let allCompanies = {};
 	listOfCompanies.forEach((name) => {
-		// console.log(test_data[name]);
-		allCompanies[name] = parseData(test_data[name]);
+		// console.log(companyData[name]);
+		allCompanies[name] = parseData(companyData[name]);
 	});
 
 	// Sveltekit Snapshot

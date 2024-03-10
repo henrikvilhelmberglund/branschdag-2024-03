@@ -1,4 +1,4 @@
-export const companiesData = {
+export const companyData = {
 "3D Interactive Sthlm": `3D Interactive Sthlm
 Om oss/att jobba med oss:
 Vi på 3D Interactive Sthlm AB är ett innovativt företag som specialiserar sig på utvecklingen av interaktiva 3D-lösningar med fokus på AR/VR/MR. Vi har länge legat i framkant när det gäller att revolutionera sättet människor interagerar med digitalt innehåll. Med ett team av högkvalificerade experter skapar 3D Interactive Sthlm fördjupande upplevelser som sömlöst sammanför den virtuella och fysiska världen. Att jobba hos oss innebär att du ingår i ett team som ständigt strävar efter att utvecklas och leverera innovativa och högkvalitativa produkter och tjänster med en tydlig kundnytta. Vi har en startup attityd men tydliga arbetsprocesser och en tydlig mission om att populära den riktiga världen med immersiva platsbaserade upplevelser.
@@ -202,6 +202,7 @@ LinkedIn (https://www.linkedin.com/company/capgemini/mycompany/)
 Vi är intresserade av dig som studerar:
 Business Intelligence – analytiker
 Data Engineer
+Pythonutvecklare inom AI
 
 Vi är intresserade av att:
 Ta emot studenter på LIA 2024 och 2025
@@ -272,33 +273,6 @@ Du kan kontakta mig om du har några frågor:
 ulrika.da.silva@climber.se
 Bifoga CV och en kort presentation av dig och berätta varför du är intresserad av att göra din praktik eller att jobba hos oss. Vi kontaktar dig ifall din profil låter intressant. Jag vill göra en intresseanmälan »   
 Anmäl ditt intresse för att göra din LIA-praktik inom IT-infrastrukturspecialist och IT-säkerhetstekniker hos oss på Expert Services>> (https://www.climber.se/karriar/lediga-jobb/lia-praktik/intresseanmalan-lia-praktik-expert-services/)
-`,
-"Crosskey": `Crosskey
-Om oss/att jobba med oss:
-Crosskey combines big-league IT capabilities with flexibility, engagement and a personal touch. We make it easier to create new revenue from financial services, getting you to market faster with the right offering. Our expertise covers everything from traditional banking to eBanking, card & mobile payments and capital markets. A subsidiary of Ålandsbanken, we have offices in Mariehamn, Stockholm, Helsinki and Turku. We offer you a fun and challenging workplace in an innovative company where our employees are the heroes. We have an open and flexible working culture built on mutual trust. Cooperation and feedback are some of the cornerstones. We love challenges and are driven by making our customers more successful.
-
-Mer om oss:
-Webbsida (http://www.crosskey.se/)
-LinkedIn (https://www.linkedin.com/company/crosskey-banking-solutions)
-
-Vi är intresserade av dig som studerar:
-DevOps Engineer
-Frontend-utvecklare
-IT-infrastrukturspecialist
-Javautvecklare
-UX-designer
-Webbutvecklare fullstack open source
-
-Vi är intresserade av att:
-Anställa studenter efter examen
-Ta emot LIA-praktikanter under 2024 och/eller 2025
-Kompetenser vi värdesätter extra/letar efter:
- API gateways, Build Tools (Gradle), Spring Boot, SQL, Vaadin, Oracle, JBoss, OIDC, AWS, C#, Microservices, Gradle, Jenkins, CI/CD, Junit, Integration testing, Automated testing, Security, Integrations SOAP/REST APIs, JIRA and Scrum.
-
-Kontakta mig om du har frågor
-Du kan kontakta mig om du har några frågor:
-monika.sigmark@crosskey.fi
-Bifoga CV och en kort presentation av dig och berätta varför du är intresserad av att göra din praktik eller att jobba hos oss. Vi kontaktar dig ifall din profil låter intressant. Jag vill göra en intresseanmälan »
 `,
 "Devoteam": `Devoteam
 Om oss/att jobba med oss:
@@ -403,12 +377,12 @@ Linkedin (https://www.linkedin.com/company/extenda-retail/)
 Hur det är att arbeta hos oss (https://career.extendaretail.com/pages/life-at-extenda-retail)
 
 Vi är intresserade av dig som studerar:
-– Frontend-utvecklare
-– UX-Design
-– Devops Engineer
-– Data Engineering
-– Business Intelligence – analytiker
-– Pythonutvecklare inom AI.
+Frontend-utvecklare
+UX-Designer
+DevOps Engineer
+Data Engineer
+Business Intelligence – analytiker
+Pythonutvecklare inom AI
 
 Vi är intresserade av att:
 Anställa studenter efter examen
@@ -419,7 +393,7 @@ Du kan kontakta mig om du har några frågor:
 ylva.brene@extendaretail.com
 Bifoga CV och en kort presentation av dig och berätta varför du är intresserad av att göra din praktik eller att jobba hos oss. Vi kontaktar dig ifall din profil låter intressant. Jag vill göra en intresseanmälan »
 `,
-"undefined": `undefined
+"FMV": `FMV
 Om oss/att jobba med oss:
 FMV upphandlar, utvecklar och levererar teknik, tjänster och materiel till Försvarsmakten. Inte bara det som behövs för att försvara Sverige idag, utan också imorgon. Det är så vi möter det svenska försvarets behov – i fred, kris och krig. Vi inom IT Staben, stöttar FMV’s verksamhet med tjänster och funktioner för att klara våra åtaganden mot Försvarsmakten och industri.
 
@@ -440,7 +414,7 @@ Du kan kontakta mig om du har några frågor:
 Daniel Elvnas (mailto:daniel.elvnas@fmv.se)
 Bifoga CV och en kort presentation av dig och berätta varför du är intresserad av att göra din praktik eller att jobba hos oss. Vi kontaktar dig ifall din profil låter intressant. Jag vill göra en intresseanmälan »
 `,
-"undefined": `undefined
+"Frank fam": `Frank fam
 Om oss/att jobba med oss:
 Välkommen till häng med Frank Fam!
 Vi är två Nackademi-alumner som gick Fullstackutbildningen och nu jobbar i IT-branchen. Efter att ha vandrat i era skolhallar och deltagit i LIA-programmet, har vi som utvecklare funnit vår passion för digitala tjänster på Frank fam. Vi pratar gärna med er om Frank som företag och den erfarenhet vi har samlat under vår resa från skolbänken till arbetsplatsen och kommer berätta lite om vad vi gör till vardags i våra arbeten som utvecklare. Om ni är intresserade av att höra mer om våra erfarenheter kring att t.ex söka LIA plats och senare jobb, så kom gärna förbi och passa på att ställa era frågor!
@@ -1141,5 +1115,200 @@ Anställa studenter efter examen
 Kontakta mig om du har frågor
 Kontakta mig om du har frågor:
 student@sl.se
+`,
+"Triggerbee": `Triggerbee
+Om oss/att jobba med oss:
+Triggerbee är en trygg, rolig och dynamisk arbetsplats där du kan utvecklas och få ditt bästa arbete utfört. Vår mission är att göra webbkanalen till mer relevant till fördel för både konsumenter och företag. Alla företag ska kunna bli framgångsrika i den digitala världen utan att tvingas köpa sin trafik från de stora amerikanska jättarna.
+Hos oss får du meningsfulla uppgifter som direkt påverkar affärsresultatet. Genom att samarbeta kan vi åstadkomma stora saker, även med ett mindre team. Vi vill att våra medarbetare ska må bra och ha en fin balans i livet. Därför erbjuder vi flexibilitet när det kommer till möjligheterna att arbeta från kontoret och hemifrån. Vi har en härlig gemenskap, med teamaktiviteter och resor där vi fokuserar på att ha roligt ihop och kombinera fysisk aktivitet (som volleyboll eller cykling) med njutning (som god mat och dryckprovningar). Bra villkor och fördelar: Pensionsförsäkring, friskvårdsbidrag och sjukvårdsförsäkring ingår för våra anställda.
+
+Mer om oss:
+Webbsida (http://www.triggerbee.com/)
+LinkedIn (https://www.linkedin.com/company/triggerbee/)
+Rörlig företagspresentation (https://www.youtube.com/watch?v=N05DXauogD8)
+
+Vi är intresserade av dig som studerar:
+Frontend-utvecklare
+UX-designer
+Webbutvecklare fullstack open source
+Programutvecklare .NET
+Webbutvecklare .NET
+
+Vi är intresserade av att:
+Ta emot LIA-praktikanter under 2024 och/eller 2025
+Anställa studenter efter examen
+Kompetenser vi värdesätter extra: 
+Drivna och vill utvecklas. God kommunikation. Gillar att ta eget ansvar och kan jobba både i team samt självständigt.
+
+Kontakta mig om du har frågor
+Kontakta mig om du har frågor:
+johan.lindholm@triggerbee.com
+Bifoga CV och en kort presentation av dig och berätta varför du är intresserad av att göra din praktik eller att jobba hos oss. Vi kontaktar dig ifall din profil låter intressant. Jag vill göra en intresseanmälan »
+`,
+"Truesec": `Truesec
+Om oss/att jobba med oss:
+Brinner du för IT/IT-säkerhet? Vill du skydda företag från it-angrepp och göra världen säkrare? Då är det hos Truesec du vill vara!
+Några exempel på avdelningar/tjänster som finns hos oss:
+– Security Operations Center
+– Incident Response
+– IT-forensik
+– Threatintelligence
+– Pentestning
+– Secure Infra
+– Secure Development
+Kom förbi oss, vi älskar att prata om IT-säkerhet!
+
+Mer om oss:
+Webbsida (http://www.truesec.se/)
+LinkedIn (https://www.linkedin.com/company/truesec/)
+Rörlig företagspresentation (https://www.youtube.com/watch?v=HOoRxZJls_o)
+
+Vi är intresserade av dig som studerar:
+DevOps Engineer
+IT-infrastrukturspecialist
+Pythonutvecklare inom AI
+IT-säkerhetstekniker
+
+Vi är intresserade av att:
+Ta emot LIA-praktikanter under 2024 och/eller 2025
+Anställa studenter efter examen
+Kompetenser vi värdesätter extra: 
+IT-säkerhetstekniker och IT-infrastrukturspecialister är de som vi oftast har tagit in på LIA men även DevOps och Pythonutvecklare har börjat hos oss. Alla som är intresserade av IT och IT-säkerhet och vill göra världen säkrare är välkommna!
+
+Kontakta mig om du har frågor
+Kontakta mig om du har frågor:
+Linus Jorenbo (https://www.linkedin.com/in/linus-jorenbo-60013589/)
+Bifoga CV och en kort presentation av dig och berätta varför du är intresserad av att göra din praktik eller att jobba hos oss. Vi kontaktar dig ifall din profil låter intressant. Jag vill göra en intresseanmälan »
+`,
+"Tutus": `Tutus
+Om oss/att jobba med oss:
+Tutus utvecklar krypto- och IT-säkerhetsprodukter till kunder med höga krav på säkerhet och assurans. Företaget är ledande inom produkter för säkerhetsnivån ”Restricted” och levererar lösningar till organisationer och företag i Sverige och utomlands. Tutus är den enda leverantör som av svenska försvaret fått certifierade och evaluerade mjukvarulösningar godkända som krypto för att skydda rikets säkerhet. Vårt utbud består av fem huvudsakliga produkt- och tjänstekategorier: Nätverkssäkerhet Säker smartphone Filkryptering Säker videokonferens Säker molntjänst Vi arbetar med den senaste tekniken i en snabbväxande, innovativ och spännande bransch.
+
+Mer om oss:
+Webbsida (http://www.tutus.se/)
+
+Vi är intresserade av dig som studerar:
+Kvalitetssäkrare och testare inom IT
+IT-säkerhetstekniker
+
+Vi är intresserade av att:
+Anställa studenter efter examen
+
+Kontakta mig om du har frågor
+Kontakta mig om du har frågor om LIA:
+Sofia Berglind (mailto:sofia.berglind@tutus.se)
+Bifoga CV och en kort presentation av dig och berätta varför du är intresserad av att göra din praktik eller att jobba hos oss. Vi kontaktar dig ifall din profil låter intressant. Jag vill göra en intresseanmälan »
+`,
+"Two": `Two
+Om oss/att jobba med oss:
+Kan du både skoja och deploya? Dig vill vi ha! Vi tror på långsiktiga relationer med våra kunder. Och att vi tillsammans med kunden skapar ett långsiktigt värde. Med en djup förståelse för våra kunders verksamhet får vi bäst förutsättningar att hjälpa dem nå sina mål. Vi är en del av koncernen CombinedX.
+I vår leverans finns affärssystem och business intelligence-lösningar. Du hittar våra kontor i Karlstad, Göteborg, Stockholm och Uppsala. Att vara en Two:are innebär en kul och inspirerande arbetsmiljö med smarta och kreativa kollegor, intressanta uppdrag och stora möjligheter att påverka din framtid. Vi har ett generöst friskvårdsbidrag, sjukvårdsförsäkring och en hel del annat smått och gott för att du ska må bra. Hos oss hittar du ett gäng trevliga kollegor, och trivs du i en prestigelös miljö – då kan Two vara rätt plats för din fortsatta karriär!
+
+Mer om oss:
+Webbsida (http://www.two.se/)
+LinkedIn (https://www.linkedin.com/company/twosverige/)
+Rörlig företagspresentation (https://youtu.be/YR_-UzumBck?si=teHfDWPKFiAJptBh)
+
+Vi är intresserade av dig som studerar:
+Business Intelligence – analytiker
+Javautvecklare
+Pythonutvecklare inom AI
+Data Engineer
+
+Vi är intresserade av att:
+Ta emot LIA-praktikanter under 2024 och/eller 2025
+Anställa studenter efter examen
+Examensarbete, extrajobb
+
+Kontakta mig om du har frågor
+Kontakta mig om du har frågor:
+Amanda Lindback (mailto:amanda.lindback@two.se)
+Bifoga CV och en kort presentation av dig och berätta varför du är intresserad av att göra din praktik eller att jobba hos oss. Vi kontaktar dig ifall din profil låter intressant. Jag vill göra en intresseanmälan »
+`,
+"Vattenfall": `Vattenfall
+Om oss/att jobba med oss:
+Vattenfall är en av Europas största producenter och återförsäljare av el och värme. Våra huvudmarknader är Sverige, Tyskland, Nederländerna, Danmark och Storbritannien. Inom Vattenfallkoncernen finns cirka 20 000 anställda. Vi har elektrifierat industrier, levererat energi till bostäder och förvandlat tillvaron genom innovation i över hundra års tid. Vi vill nu göra det möjligt att leva fossilfritt inom en generation och vi driver på övergången till ett hållbart energisystem.
+
+Mer om oss:
+Webbsida (https://careers.vattenfall.com/se/sv/framtidens-talanger/studenter-nyutexaminerade)
+
+Vi är intresserade av dig som studerar:
+
+Vi är intresserade av att:
+
+Kontakta mig om du har frågor
+`,
+"Warpin Reality": `Warpin Reality
+Om oss/att jobba med oss:
+Warpin Reality har funnits sedan 2017 och hjälper andra bolag att utnyttja ny teknik för sin verksamhet med fokus på utbildning och story telling i AR och VR.
+
+Mer om oss:
+Webbsida (https://warpinreality.com/)
+
+Vi är intresserade av dig som studerar:
+Virtual Reality-utvecklare
+Teknisk 3D-artist inom spel
+
+Vi är intresserade av att:
+Ta emot LIA-praktikanter under 2024 och/eller 2025
+Anställa studenter efter examen
+
+Kontakta mig om du har frågor
+Kontakta mig om du har frågor LIA
+jakob@warpinreality.com
+`,
+"Xlent": `Xlent
+Om oss/att jobba med oss:
+På XLENT står människan i centrum av allt vi gör. Vi vet att vår största konkurrensfördel och styrka ligger i var och en av våra medarbetare. Därför lägger vi stort fokus på att skapa en arbetsmiljö där alla känner sig värderade, respekterade och uppmuntrade att utvecklas.
+Vi vet att olikheter, bakgrunder och perspektiv leder till rikare idéer, kreativa lösningar och en starkare, mer dynamisk organisation. Vår tro på mångfald sträcker sig längre än bara ord – det är en integrerad del av vår verksamhet och vår kultur.
+
+Mer om oss:
+Webbsida (http://www.xlent.se/)
+LinkedIn (https://www.linkedin.com/search/results/all/?keywords=xlent&origin=GLOBAL_SEARCH_HEADER&sid=Lxq)
+
+Vi är intresserade av dig som studerar:
+Business Intelligence – analytiker
+Mjukvaruutvecklare, Inbyggda system och IoT (Internet of Things-utvecklare)
+Data Engineer
+Programutvecklare .NET
+Webbutvecklare .NET
+
+Vi är intresserade av att:
+Ta emot LIA-praktikanter under 2024 och/eller 2025
+Anställa studenter efter examen
+Kompetenser vi värdesätter extra/letar efter:
+Vi letar efter rätt personer, tekniken kan man alltid lära sig, men man ska brinna för sitt område och för att leverera värde till våra kunder.
+
+Kontakta mig om du har frågor
+Kontakta mig om du har frågor LIA
+michael.sandstrom@xlent.se
+Bifoga CV och en kort presentation av dig och berätta varför du är intresserad av att göra din praktik eller att jobba hos oss. Vi kontaktar dig ifall din profil låter intressant. Jag vill göra en intresseanmälan »
+`,
+"Zington": `Zington
+Om oss/att jobba med oss:
+Zington är en digital helhetspartner med kompetens inom IT, digital design och management. Vi är 250 konsulter i Stockholm som hjälper dig att möta utmaningar och utveckla din affär i en digital värld. Det gör vi genom att utforma strategier, designa tjänster och bygga lösningar som driver din affär framåt. Från idé till genomförande – med fokus på människan, tekniken och affären.
+
+Mer om oss:
+Webbsida (https://www.zingtongroup.com/)
+LinkedIn (https://se.linkedin.com/company/zington)
+
+Vi är intresserade av dig som studerar:
+DevOps Engineer
+Frontend-utvecklare
+Kvalitetssäkrare och testare inom IT
+UX-designer
+Webbutvecklare fullstack open source
+Data Engineer
+IT-säkerhetstekniker
+Programutvecklare .NET
+Webbutvecklare .NET
+
+Vi är intresserade av att:
+Ta emot LIA-praktikanter under 2024 och/eller 2025
+Anställa studenter efter examen
+
+Kontakta mig om du har frågor
+Kontakta mig om du har frågor LIA
+alexander.guitz@zingtongroup.com
+Bifoga CV och en kort presentation av dig och berätta varför du är intresserad av att göra din praktik eller att jobba hos oss. Vi kontaktar dig ifall din profil låter intressant. Jag vill göra en intresseanmälan »
 `,
 }
