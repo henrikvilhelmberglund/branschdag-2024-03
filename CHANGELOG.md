@@ -2,6 +2,28 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## 0.0.11 (2024-03-10)
+
+
+### Features
+
+* add constants.js ([f4372a3](https://github.com/henrikvilhelmberglund/branschdag-2024-03/commit/f4372a3acda42a30cd878675fcf5f0338c0986cc))
+* output vitest HTML results inside build folder ([677a9fa](https://github.com/henrikvilhelmberglund/branschdag-2024-03/commit/677a9fa9bd55f16173273fee1cc887d07159c744))
+* add check function for test ([bdb7049](https://github.com/henrikvilhelmberglund/branschdag-2024-03/commit/bdb7049a409a38525ed8f9c6b84a8c8874766053))
+* add vitest ([ce814e6](https://github.com/henrikvilhelmberglund/branschdag-2024-03/commit/ce814e6643c522c3072cd605b545fd5388bbb7fa))
+* first commit ([414c31d](https://github.com/henrikvilhelmberglund/branschdag-2024-03/commit/414c31df4598f694849ea561a463317320bb1116))
+
+
+### Bug Fixes
+
+* fix name in package.json ([0feb4d0](https://github.com/henrikvilhelmberglund/branschdag-2024-03/commit/0feb4d05ff9ac36282490155be353619f9b475ef))
+* fix name ([7bf9e98](https://github.com/henrikvilhelmberglund/branschdag-2024-03/commit/7bf9e986cf2f1c8d10de8b9743706e9eb8d98dd7))
+* fix case ([50ccf16](https://github.com/henrikvilhelmberglund/branschdag-2024-03/commit/50ccf16d6f7eb6bb619bf806c697a9bd3753e8fe))
+* fix names in medverkande.js ([2147098](https://github.com/henrikvilhelmberglund/branschdag-2024-03/commit/2147098b749c053cc1a64468c229dff54ea11faf))
+* fix wrong names in classrooms.js ([0f64647](https://github.com/henrikvilhelmberglund/branschdag-2024-03/commit/0f64647fe804bcbce57f6d6813f3bf1b85367299))
+* rename test.js to companyData.js ([e7e1170](https://github.com/henrikvilhelmberglund/branschdag-2024-03/commit/e7e1170bcf82368f7d0eddffd6e83b862dc82347))
+* check for more heading tags when scraping company name ([9b37b6a](https://github.com/henrikvilhelmberglund/branschdag-2024-03/commit/9b37b6a75de948296894eb224a61cb30697e4dbb))
+
 ## [0.0.10](https://github.com/henrikvilhelmberglund/branschdag-2023-10/compare/v0.0.9...v0.0.10) (2023-10-09)
 
 
