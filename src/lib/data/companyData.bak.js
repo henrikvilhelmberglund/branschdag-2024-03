@@ -279,9 +279,9 @@ Om oss/att jobba med oss:
 Vi är en certifierad Premier Managed Services Google Cloud partner med över 400 specialister över 20 länder, och arbetar med allt från infrastruktur och applikationsutveckling till data engineering och machine learning. Med närmare 3000 kunder så strävar vi efter att vara en global ledare inom Google Cloud teknologier och en Google Cloud Premier Partner som håller sig i framkant.
 
 Mer om oss:
-Webbsida (http://www.digitalengine.se/)
-LinkedIn (https://www.linkedin.com/company/37535940)
-Rörlig företagspresentation (https://proc-ezign.se/media/video/RPA_video.mp4)
+Webbsida (https://gcloud.devoteam.com/)
+LinkedIn (https://www.linkedin.com/company/devoteam-g-cloud)
+Rörlig företagspresentation (https://www.youtube.com/watch?v=kvmwmVaNqjo)
 
 Vi är intresserade av dig som studerar:
 DevOps Engineer
@@ -297,38 +297,6 @@ Kompetenser vi värdesätter extra/letar efter:
 Kontakta mig om du har frågor
 Du kan kontakta mig om du har några frågor:
 mikael.fredriksson@devoteam.com
-Bifoga CV och en kort presentation av dig och berätta varför du är intresserad av att göra din praktik eller att jobba hos oss. Vi kontaktar dig ifall din profil låter intressant. Jag vill göra en intresseanmälan »
-`,
-"Digital Engine": `Digital Engine
-Om oss/att jobba med oss:
-Digital Engine är ett nystartat företag som fokuserar på att automatisera administrativa processer. Vi hjälper företag att minska stressen genom att lyfta över lågkomplexa, tråkiga, personberoende arbetsuppgifter till en robot som vi anpassar och tillhandahåller. Vi jobbar med tre tjänster: Kartlägga processer, automatisera processer enligt kartläggning, och förvalta de processer som därefter hanteras av en robot. Just nu söker vi praktikanter som kan bidra till att vidareutveckla vår robotplattform, Office Assistant. Genom praktiken kommer du ha möjlighet att delta i utvecklingen av Office Assistant och även automatisera kundprocesser. Du kommer också få chansen att jobba med att kartlägga processer och designa lösningar. Så, om du är redo för en spännande utmaning, ser vi fram emot att välkomna dig till vårt team!
-
-Mer om oss:
-Webbsida (https://gcloud.devoteam.com/)
-LinkedIn (https://www.linkedin.com/company/devoteam-g-cloud)
-Rörlig företagspresentation (https://www.youtube.com/watch?v=kvmwmVaNqjo)
-
-Vi är intresserade av dig som studerar:
-Business Intelligence – analytiker
-DevOps Engineer
-Javautvecklare
-Kvalitetssäkrare och testare inom IT
-Mjukvaruutvecklare, Inbyggda system och IoT (Internet of Things-utvecklare)
-UX-designer
-Webbutvecklare fullstack open source
-Data Engineer
-Programutvecklare .NET
-Webbutvecklare .NET
-
-Vi är intresserade av att:
-Anställa studenter efter examen
-Ta emot LIA-praktikanter under 2024 och/eller 2025
-Kompetenser vi värdesätter extra/letar efter:
-lösningsarkitektur, back end systemutveckling, API integrationer, Azure, JSON, Office programmen (då många automationer involverar t.ex. Excel), produktutveckling
-
-Kontakta mig om du har frågor
-Du kan kontakta mig om du har några frågor:
-per.defalva@digitalengine.se
 Bifoga CV och en kort presentation av dig och berätta varför du är intresserad av att göra din praktik eller att jobba hos oss. Vi kontaktar dig ifall din profil låter intressant. Jag vill göra en intresseanmälan »
 `,
 "Epinova": `Epinova
@@ -1270,30 +1238,6 @@ Vi är intresserade av att:
 Kontakta mig om du har frågor
 `,
 "Warpin Reality": `Warpin Reality
-Om oss/att jobba med oss:
-At WSI Sigma Connectivity we apply a business and technical perspective and are the customers´ reliable guide through the entire development journey. With best-in-class competence, a huge network of partners and access to Europe’s biggest independent labs, we customize development dream teams in which we together further develop ourselves as individuals and as teammembers.
-
-Mer om oss:
-Webbsida (https://www.wsisweden.com/)
-LinkedIn (https://www.linkedin.com/company/sigmaconnectitivywsiab)
-Rörlig företagspresentation (https://www.youtube.com/watch?v=3Me8dwlkyms)
-
-Vi är intresserade av dig som studerar:
-Javautvecklare
-Mjukvaruutvecklare, Inbyggda system och IoT (Internet of Things-utvecklare)
-Pythonutvecklare inom AI
-Data Engineer
-IT-säkerhetstekniker
-
-Vi är intresserade av att:
-Ta emot LIA-praktikanter under 2024 och/eller 2025
-Anställa studenter efter examen
-
-Kontakta mig om du har frågor
-Kontakta mig om du har frågor LIA
-henrik.svegby@wsisweden.com
-`,
-"WSI Sigma Connectivity": `WSI Sigma Connectivity
 Om oss/att jobba med oss:
 Warpin Reality har funnits sedan 2017 och hjälper andra bolag att utnyttja ny teknik för sin verksamhet med fokus på utbildning och story telling i AR och VR.
 

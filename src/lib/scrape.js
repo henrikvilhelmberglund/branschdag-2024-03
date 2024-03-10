@@ -157,7 +157,7 @@ async function scrapeMedverkande(page) {
 async function scrapeCompanies(page) {
   let start = START_INDEX;
 	let end = END_INDEX;
-	fs.writeFileSync("src/lib/data/companyData.js", "export const companiesData = {\n");
+	fs.writeFileSync("src/lib/data/companyData.js", "export const companyData = {\n");
 
 	for (let i = start; i <= end; i++) {
 		const selector = `.et_pb_section_${i}`;
@@ -329,7 +329,7 @@ export async function get() {
 		await page.goto(process.env.SCRAPE_TARGET); // Replace with the URL of the website you want to scrape
 
 		// await scrapeMedverkande(page);
-		// await scrapeCompanies(page);
+		await scrapeCompanies(page);
 		// fs.appendFileSync("src/lib/data/companyData.js", "}");
 		// await scrapeClassrooms(page);
 

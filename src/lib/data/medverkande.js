@@ -11,6 +11,7 @@ export const listOfCompanies = [
 "Cegeka",
 "Climber",
 "Devoteam",
+"Digital Engine",
 "EdgeGuide",
 "Epinova",
 "Epicalgroup",
@@ -51,4 +52,6 @@ export const listOfCompanies = [
 "Vattenfall",
 "Xlent",
 "Zington",
-"Warpin Reality"];
+"Warpin Reality",
+"WSI Sigma Connectivity",
+];

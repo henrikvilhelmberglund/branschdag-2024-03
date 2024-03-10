@@ -10,4 +10,4 @@ where START_INDEX comes from the number in et_pb_section et_pb_section_4
 */
 
 export const START_INDEX = 4;
-export const END_INDEX = 56;
+export const END_INDEX = 58;

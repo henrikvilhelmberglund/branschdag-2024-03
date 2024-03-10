@@ -4,7 +4,7 @@ A: [
 A214: ["Prevas", "Releye", "Attollo", "SidiaTech"],
 },
 {
-A215: ["Polisen", "Proact", "Accigo", "Xlent"],
+A215: ["Polisen", "Proact", "Accigo", "Xlent", "Digital Engine"],
 },
 {
 A218: ["Arbetsförmedlingen", "Beyond Frames", "Climber", "Extenda Retail", "Inadra"],
@@ -26,7 +26,7 @@ B205: ["FMV", "TECHNIA", "AMF Tjänstepension", "Two"],
 ],
  C: [
 {
-C201: ["Trafikförvaltningen Region Stockholm", "SignUp Software", "Epinova", "Azeo"],
+C201: ["Trafikförvaltningen Region Stockholm", "SignUp Software", "Epinova", "Azeo", "WSI Sigma Connectivity"],
 },
 {
 C204: ["Devoteam", "B3", "H&M Group", "Membrain", "Lantmännen"],
