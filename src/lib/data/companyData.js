@@ -378,7 +378,7 @@ Hur det är att arbeta hos oss (https://career.extendaretail.com/pages/life-at-e
 
 Vi är intresserade av dig som studerar:
 Frontend-utvecklare
-UX-Designer
+UX-designer
 DevOps Engineer
 Data Engineer
 Business Intelligence – analytiker
