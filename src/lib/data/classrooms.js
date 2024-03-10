@@ -12,7 +12,7 @@ A218: ["Arbetsförmedlingen", "Beyond Frames", "Climber", "Extenda Retail", "Ina
 ],
  B: [
 {
-B201: ["Vattenfall", "Orange Business", "3D Interactive Sthlm", "Its nordic"],
+B201: ["Vattenfall", "Orange Business", "3D Interactive Sthlm", "ITS Nordic"],
 },
 {
 B202: ["Truesec", "Kommando", "Telia", "Zington"],
