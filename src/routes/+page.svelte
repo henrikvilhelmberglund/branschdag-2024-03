@@ -86,8 +86,6 @@
 		"Mjukvaruutvecklare, Inbyggda system och IoT (Internet of Things-utvecklare)",
 		"Programutvecklare .NET",
 		// "Programutvecklare Java",
-		"Javautvecklare",
-		//
 		// "Pythonutvecklare",
 		// "Pythonutvecklare för AI",
 		"Pythonutvecklare inom AI",
