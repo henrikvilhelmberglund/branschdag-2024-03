@@ -1,5 +1,6 @@
 import "dotenv/config";
 import puppeteer from "puppeteer";
+import { END_INDEX, START_INDEX } from "./constants";
 
 export async function checkClassroomsAndMedverkande() {
 	const browser = await puppeteer.launch({ headless: "new" });
@@ -97,14 +98,13 @@ export async function checkCompanyData() {
 	// });
 	await page.goto(process.env.SCRAPE_TARGET);
 
-	let start = 4;
-	let end = 56;
-	// fs.writeFileSync("src/lib/data/test.js", "export const companiesData = {\n");
+  // ! hard coded values here, check the constants below to see how to get these numbers
+	let start = START_INDEX;
+	let end = END_INDEX;
 	let foundCompanyData = [];
 
 	for (let i = start; i <= end; i++) {
 		const selector = `.et_pb_section_${i}`;
-		await page.waitForSelector(selector);
 		const loopCompanyData = await page.evaluate((selector) => {
 			const element = document.querySelector(selector);
 			if (element) {

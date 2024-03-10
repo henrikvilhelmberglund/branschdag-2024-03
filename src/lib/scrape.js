@@ -2,6 +2,7 @@
 import puppeteer from "puppeteer";
 import fs from "fs";
 import "dotenv/config";
+import { END_INDEX, START_INDEX } from "./constants.js";
 
 async function scrapeClassrooms(page) {
 	const outputData = [];
@@ -154,9 +155,9 @@ async function scrapeMedverkande(page) {
 }
 
 async function scrapeCompanies(page) {
-	let start = 4;
-	let end = 49;
-	fs.writeFileSync("src/lib/data/test.js", "export const companiesData = {\n");
+  let start = START_INDEX;
+	let end = END_INDEX;
+	fs.writeFileSync("src/lib/data/companyData.js", "export const companiesData = {\n");
 
 	for (let i = start; i <= end; i++) {
 		const selector = `.et_pb_section_${i}`;
@@ -240,6 +241,10 @@ async function scrapeCompanies(page) {
 								pattern: /Programutvecklare .NET:$/m,
 								replacement: "Programutvecklare .NET",
 							},
+							{
+								pattern: /UX-Designer$/m,
+								replacement: "UX-designer",
+							},
 						];
 
 						patterns.forEach(({ pattern, replacement }) => {
@@ -295,9 +300,9 @@ async function scrapeCompanies(page) {
 			data.contact.join("\n") +
 			`\n\`,\n`;
 
-		fs.appendFileSync("src/lib/data/test.js", companyData);
+		fs.appendFileSync("src/lib/data/companyData.js", companyData);
   }
-  fs.appendFileSync("src/lib/data/test.js", "}");
+  fs.appendFileSync("src/lib/data/companyData.js", "}");
 }
 
 export async function get() {
@@ -324,8 +329,8 @@ export async function get() {
 		await page.goto(process.env.SCRAPE_TARGET); // Replace with the URL of the website you want to scrape
 
 		// await scrapeMedverkande(page);
-		await scrapeCompanies(page);
-		// fs.appendFileSync("src/lib/data/test.js", "}");
+		// await scrapeCompanies(page);
+		// fs.appendFileSync("src/lib/data/companyData.js", "}");
 		// await scrapeClassrooms(page);
 
 		// Close the browser
