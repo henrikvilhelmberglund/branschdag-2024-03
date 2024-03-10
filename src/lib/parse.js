@@ -1,4 +1,4 @@
-export const test_data = {
+export const companyData = {
 	Accigo: `Accigo
   Om oss/att jobba hos oss:
   Framgång utan chefer Vi har valt att inte ha några chefer eller traditionella hierarkier, utan jobbar med något vi kallar för Kollektivt ledarskap. Det betyder att vi lägger ansvaret och möjligheterna hos oss själva. Ambitionen hos varje enskild individ är det som skapar gemensam framdrift och utveckling. När du kommer till Accigo möts du av ett kontor som bubblar av energi och professionalism. Här träffar du glada, innovativa och omtänksamma kollegor som gärna pausar en stund vid kaffemaskinen för att socialisera och bygga sitt personliga nätverk. Vi har hittat den där magiska mixen av glädje, energi och entreprenörsanda som många söker men få finner.
