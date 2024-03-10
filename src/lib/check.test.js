@@ -60,14 +60,13 @@ describe("Info checker", async () => {
 		);
 	});
 
-	describe("Test if company info name equals name in classroom", async () => {
+	describe("Test if company info name equals name in medverkande", async () => {
 		test.each(foundCompanyData)(
-			"name in info for $companyName is found in classroom",
+			"name in info for $companyName is equal to name in medverkande",
 			(companyInfo) => {
 				let found = false;
-				let currentCompany = companyInfo["companyName"];
-				foundCompaniesInClassrooms.split(",").forEach((classroomCompany) => {
-					if (companyInfo["companyName"] === classroomCompany) {
+				foundMedverkande.split(",").forEach((medverkandeCompany) => {
+					if (companyInfo["companyName"] === medverkandeCompany) {
 						found = true;
 					}
 				});
@@ -76,13 +75,14 @@ describe("Info checker", async () => {
 		);
 	});
 
-	describe("Test if company info name equals name in medverkande", async () => {
+	describe("Test if company info name equals name in classroom", async () => {
 		test.each(foundCompanyData)(
-			"name in info for $companyName is found in medverkande",
+			"name in info for $companyName is equal to name in classroom",
 			(companyInfo) => {
 				let found = false;
-				foundMedverkande.split(",").forEach((medverkandeCompany) => {
-					if (companyInfo["companyName"] === medverkandeCompany) {
+				let currentCompany = companyInfo["companyName"];
+				foundCompaniesInClassrooms.split(",").forEach((classroomCompany) => {
+					if (companyInfo["companyName"] === classroomCompany) {
 						found = true;
 					}
 				});
